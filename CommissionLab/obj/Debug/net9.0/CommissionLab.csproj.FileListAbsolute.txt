@@ -1,0 +1,14 @@
+C:\Users\snowf\OneDrive\Documents\Programming Logic\CommissionLab\bin\Debug\net9.0\CommissionLab.exe
+C:\Users\snowf\OneDrive\Documents\Programming Logic\CommissionLab\bin\Debug\net9.0\CommissionLab.deps.json
+C:\Users\snowf\OneDrive\Documents\Programming Logic\CommissionLab\bin\Debug\net9.0\CommissionLab.runtimeconfig.json
+C:\Users\snowf\OneDrive\Documents\Programming Logic\CommissionLab\bin\Debug\net9.0\CommissionLab.dll
+C:\Users\snowf\OneDrive\Documents\Programming Logic\CommissionLab\bin\Debug\net9.0\CommissionLab.pdb
+C:\Users\snowf\OneDrive\Documents\Programming Logic\CommissionLab\obj\Debug\net9.0\CommissionLab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\snowf\OneDrive\Documents\Programming Logic\CommissionLab\obj\Debug\net9.0\CommissionLab.AssemblyInfoInputs.cache
+C:\Users\snowf\OneDrive\Documents\Programming Logic\CommissionLab\obj\Debug\net9.0\CommissionLab.AssemblyInfo.cs
+C:\Users\snowf\OneDrive\Documents\Programming Logic\CommissionLab\obj\Debug\net9.0\CommissionLab.csproj.CoreCompileInputs.cache
+C:\Users\snowf\OneDrive\Documents\Programming Logic\CommissionLab\obj\Debug\net9.0\CommissionLab.dll
+C:\Users\snowf\OneDrive\Documents\Programming Logic\CommissionLab\obj\Debug\net9.0\refint\CommissionLab.dll
+C:\Users\snowf\OneDrive\Documents\Programming Logic\CommissionLab\obj\Debug\net9.0\CommissionLab.pdb
+C:\Users\snowf\OneDrive\Documents\Programming Logic\CommissionLab\obj\Debug\net9.0\CommissionLab.genruntimeconfig.cache
+C:\Users\snowf\OneDrive\Documents\Programming Logic\CommissionLab\obj\Debug\net9.0\ref\CommissionLab.dll
