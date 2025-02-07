@@ -1,0 +1,15 @@
+C:\Users\snowf\OneDrive\Documents\Programming Logic\SpeedLab\bin\Debug\net9.0\SpeedLab.exe
+C:\Users\snowf\OneDrive\Documents\Programming Logic\SpeedLab\bin\Debug\net9.0\SpeedLab.deps.json
+C:\Users\snowf\OneDrive\Documents\Programming Logic\SpeedLab\bin\Debug\net9.0\SpeedLab.runtimeconfig.json
+C:\Users\snowf\OneDrive\Documents\Programming Logic\SpeedLab\bin\Debug\net9.0\SpeedLab.dll
+C:\Users\snowf\OneDrive\Documents\Programming Logic\SpeedLab\bin\Debug\net9.0\SpeedLab.pdb
+C:\Users\snowf\OneDrive\Documents\Programming Logic\SpeedLab\obj\Debug\net9.0\SpeedLab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\snowf\OneDrive\Documents\Programming Logic\SpeedLab\obj\Debug\net9.0\SpeedLab.AssemblyInfoInputs.cache
+C:\Users\snowf\OneDrive\Documents\Programming Logic\SpeedLab\obj\Debug\net9.0\SpeedLab.AssemblyInfo.cs
+C:\Users\snowf\OneDrive\Documents\Programming Logic\SpeedLab\obj\Debug\net9.0\SpeedLab.csproj.CoreCompileInputs.cache
+C:\Users\snowf\OneDrive\Documents\Programming Logic\SpeedLab\obj\Debug\net9.0\SpeedLab.sourcelink.json
+C:\Users\snowf\OneDrive\Documents\Programming Logic\SpeedLab\obj\Debug\net9.0\SpeedLab.dll
+C:\Users\snowf\OneDrive\Documents\Programming Logic\SpeedLab\obj\Debug\net9.0\refint\SpeedLab.dll
+C:\Users\snowf\OneDrive\Documents\Programming Logic\SpeedLab\obj\Debug\net9.0\SpeedLab.pdb
+C:\Users\snowf\OneDrive\Documents\Programming Logic\SpeedLab\obj\Debug\net9.0\SpeedLab.genruntimeconfig.cache
+C:\Users\snowf\OneDrive\Documents\Programming Logic\SpeedLab\obj\Debug\net9.0\ref\SpeedLab.dll
