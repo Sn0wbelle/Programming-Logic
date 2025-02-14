@@ -1,0 +1,15 @@
+C:\Users\snowf\Programming-Logic\MiniExam\bin\Debug\net9.0\MiniExam.exe
+C:\Users\snowf\Programming-Logic\MiniExam\bin\Debug\net9.0\MiniExam.deps.json
+C:\Users\snowf\Programming-Logic\MiniExam\bin\Debug\net9.0\MiniExam.runtimeconfig.json
+C:\Users\snowf\Programming-Logic\MiniExam\bin\Debug\net9.0\MiniExam.dll
+C:\Users\snowf\Programming-Logic\MiniExam\bin\Debug\net9.0\MiniExam.pdb
+C:\Users\snowf\Programming-Logic\MiniExam\obj\Debug\net9.0\MiniExam.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\snowf\Programming-Logic\MiniExam\obj\Debug\net9.0\MiniExam.AssemblyInfoInputs.cache
+C:\Users\snowf\Programming-Logic\MiniExam\obj\Debug\net9.0\MiniExam.AssemblyInfo.cs
+C:\Users\snowf\Programming-Logic\MiniExam\obj\Debug\net9.0\MiniExam.csproj.CoreCompileInputs.cache
+C:\Users\snowf\Programming-Logic\MiniExam\obj\Debug\net9.0\MiniExam.sourcelink.json
+C:\Users\snowf\Programming-Logic\MiniExam\obj\Debug\net9.0\MiniExam.dll
+C:\Users\snowf\Programming-Logic\MiniExam\obj\Debug\net9.0\refint\MiniExam.dll
+C:\Users\snowf\Programming-Logic\MiniExam\obj\Debug\net9.0\MiniExam.pdb
+C:\Users\snowf\Programming-Logic\MiniExam\obj\Debug\net9.0\MiniExam.genruntimeconfig.cache
+C:\Users\snowf\Programming-Logic\MiniExam\obj\Debug\net9.0\ref\MiniExam.dll

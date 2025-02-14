@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\snowf\\Programming-Logic\\CommissionLab\\CommissionLab.csproj",
-      "projectName": "CommissionLab",
-      "projectPath": "C:\\Users\\snowf\\Programming-Logic\\CommissionLab\\CommissionLab.csproj",
+      "projectUniqueName": "C:\\Users\\snowf\\Programming-Logic\\MiniExam\\MiniExam.csproj",
+      "projectName": "MiniExam",
+      "projectPath": "C:\\Users\\snowf\\Programming-Logic\\MiniExam\\MiniExam.csproj",
       "packagesPath": "C:\\Users\\snowf\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\snowf\\Programming-Logic\\CommissionLab\\obj\\",
+      "outputPath": "C:\\Users\\snowf\\Programming-Logic\\MiniExam\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\snowf\\AppData\\Roaming\\NuGet\\NuGet.Config"
