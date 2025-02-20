@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MiniExam")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e28e2438ef1264387d5fd23bac2b0987b663e5b5")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9ac018061d232ff26e9d811e0eefa7843c4395dd")]
 [assembly: System.Reflection.AssemblyProductAttribute("MiniExam")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MiniExam")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
