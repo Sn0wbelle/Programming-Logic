@@ -1,0 +1,15 @@
+C:\Users\snowf\Programming-Logic\Programming-Logic\EmployeeLab2\bin\Debug\net9.0\EmployeeLab2.exe
+C:\Users\snowf\Programming-Logic\Programming-Logic\EmployeeLab2\bin\Debug\net9.0\EmployeeLab2.deps.json
+C:\Users\snowf\Programming-Logic\Programming-Logic\EmployeeLab2\bin\Debug\net9.0\EmployeeLab2.runtimeconfig.json
+C:\Users\snowf\Programming-Logic\Programming-Logic\EmployeeLab2\bin\Debug\net9.0\EmployeeLab2.dll
+C:\Users\snowf\Programming-Logic\Programming-Logic\EmployeeLab2\bin\Debug\net9.0\EmployeeLab2.pdb
+C:\Users\snowf\Programming-Logic\Programming-Logic\EmployeeLab2\obj\Debug\net9.0\EmployeeLab2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\snowf\Programming-Logic\Programming-Logic\EmployeeLab2\obj\Debug\net9.0\EmployeeLab2.AssemblyInfoInputs.cache
+C:\Users\snowf\Programming-Logic\Programming-Logic\EmployeeLab2\obj\Debug\net9.0\EmployeeLab2.AssemblyInfo.cs
+C:\Users\snowf\Programming-Logic\Programming-Logic\EmployeeLab2\obj\Debug\net9.0\EmployeeLab2.csproj.CoreCompileInputs.cache
+C:\Users\snowf\Programming-Logic\Programming-Logic\EmployeeLab2\obj\Debug\net9.0\EmployeeLab2.sourcelink.json
+C:\Users\snowf\Programming-Logic\Programming-Logic\EmployeeLab2\obj\Debug\net9.0\EmployeeLab2.dll
+C:\Users\snowf\Programming-Logic\Programming-Logic\EmployeeLab2\obj\Debug\net9.0\refint\EmployeeLab2.dll
+C:\Users\snowf\Programming-Logic\Programming-Logic\EmployeeLab2\obj\Debug\net9.0\EmployeeLab2.pdb
+C:\Users\snowf\Programming-Logic\Programming-Logic\EmployeeLab2\obj\Debug\net9.0\EmployeeLab2.genruntimeconfig.cache
+C:\Users\snowf\Programming-Logic\Programming-Logic\EmployeeLab2\obj\Debug\net9.0\ref\EmployeeLab2.dll
