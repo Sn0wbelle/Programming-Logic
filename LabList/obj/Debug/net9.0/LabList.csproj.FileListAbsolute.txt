@@ -1,0 +1,15 @@
+C:\Users\snowf\Programming-Logic\Programming-Logic\LabList\obj\Debug\net9.0\LabList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\snowf\Programming-Logic\Programming-Logic\LabList\obj\Debug\net9.0\LabList.AssemblyInfoInputs.cache
+C:\Users\snowf\Programming-Logic\Programming-Logic\LabList\obj\Debug\net9.0\LabList.AssemblyInfo.cs
+C:\Users\snowf\Programming-Logic\Programming-Logic\LabList\obj\Debug\net9.0\LabList.csproj.CoreCompileInputs.cache
+C:\Users\snowf\Programming-Logic\Programming-Logic\LabList\obj\Debug\net9.0\LabList.sourcelink.json
+C:\Users\snowf\Programming-Logic\Programming-Logic\LabList\bin\Debug\net9.0\LabList.exe
+C:\Users\snowf\Programming-Logic\Programming-Logic\LabList\bin\Debug\net9.0\LabList.deps.json
+C:\Users\snowf\Programming-Logic\Programming-Logic\LabList\bin\Debug\net9.0\LabList.runtimeconfig.json
+C:\Users\snowf\Programming-Logic\Programming-Logic\LabList\bin\Debug\net9.0\LabList.dll
+C:\Users\snowf\Programming-Logic\Programming-Logic\LabList\bin\Debug\net9.0\LabList.pdb
+C:\Users\snowf\Programming-Logic\Programming-Logic\LabList\obj\Debug\net9.0\LabList.dll
+C:\Users\snowf\Programming-Logic\Programming-Logic\LabList\obj\Debug\net9.0\refint\LabList.dll
+C:\Users\snowf\Programming-Logic\Programming-Logic\LabList\obj\Debug\net9.0\LabList.pdb
+C:\Users\snowf\Programming-Logic\Programming-Logic\LabList\obj\Debug\net9.0\LabList.genruntimeconfig.cache
+C:\Users\snowf\Programming-Logic\Programming-Logic\LabList\obj\Debug\net9.0\ref\LabList.dll
