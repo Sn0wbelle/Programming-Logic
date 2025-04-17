@@ -8,6 +8,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MiniExam", "MiniExam\MiniEx
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OddEven", "OddEven\OddEven.csproj", "{2361526A-50EC-4152-9C20-7C4E2B9D2ABD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FinalProject", "FinalProject\FinalProject.csproj", "{2D631674-BDA2-4AF4-BAAC-76302AF582D3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -26,6 +28,10 @@ Global
 		{2361526A-50EC-4152-9C20-7C4E2B9D2ABD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2361526A-50EC-4152-9C20-7C4E2B9D2ABD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2361526A-50EC-4152-9C20-7C4E2B9D2ABD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2D631674-BDA2-4AF4-BAAC-76302AF582D3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D631674-BDA2-4AF4-BAAC-76302AF582D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D631674-BDA2-4AF4-BAAC-76302AF582D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D631674-BDA2-4AF4-BAAC-76302AF582D3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
