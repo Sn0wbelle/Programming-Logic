@@ -1,0 +1,15 @@
+c:\Users\snowf\Programming-Logic\Programming-Logic\OddEven\bin\Debug\net9.0\OddEven.exe
+C:\Users\snowf\Programming-Logic\Programming-Logic\OddEven\bin\Debug\net9.0\OddEven.deps.json
+C:\Users\snowf\Programming-Logic\Programming-Logic\OddEven\bin\Debug\net9.0\OddEven.runtimeconfig.json
+c:\Users\snowf\Programming-Logic\Programming-Logic\OddEven\bin\Debug\net9.0\OddEven.dll
+c:\Users\snowf\Programming-Logic\Programming-Logic\OddEven\bin\Debug\net9.0\OddEven.pdb
+c:\Users\snowf\Programming-Logic\Programming-Logic\OddEven\obj\Debug\net9.0\OddEven.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\snowf\Programming-Logic\Programming-Logic\OddEven\obj\Debug\net9.0\OddEven.AssemblyInfoInputs.cache
+c:\Users\snowf\Programming-Logic\Programming-Logic\OddEven\obj\Debug\net9.0\OddEven.AssemblyInfo.cs
+c:\Users\snowf\Programming-Logic\Programming-Logic\OddEven\obj\Debug\net9.0\OddEven.csproj.CoreCompileInputs.cache
+c:\Users\snowf\Programming-Logic\Programming-Logic\OddEven\obj\Debug\net9.0\OddEven.sourcelink.json
+c:\Users\snowf\Programming-Logic\Programming-Logic\OddEven\obj\Debug\net9.0\OddEven.dll
+c:\Users\snowf\Programming-Logic\Programming-Logic\OddEven\obj\Debug\net9.0\refint\OddEven.dll
+c:\Users\snowf\Programming-Logic\Programming-Logic\OddEven\obj\Debug\net9.0\OddEven.pdb
+C:\Users\snowf\Programming-Logic\Programming-Logic\OddEven\obj\Debug\net9.0\OddEven.genruntimeconfig.cache
+C:\Users\snowf\Programming-Logic\Programming-Logic\OddEven\obj\Debug\net9.0\ref\OddEven.dll

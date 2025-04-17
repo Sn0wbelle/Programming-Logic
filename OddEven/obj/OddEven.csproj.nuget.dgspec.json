@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\snowf\\Programming-Logic\\OddEven\\OddEven.csproj": {}
+    "C:\\Users\\snowf\\Programming-Logic\\Programming-Logic\\OddEven\\OddEven.csproj": {}
   },
   "projects": {
-    "C:\\Users\\snowf\\Programming-Logic\\OddEven\\OddEven.csproj": {
+    "C:\\Users\\snowf\\Programming-Logic\\Programming-Logic\\OddEven\\OddEven.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\snowf\\Programming-Logic\\OddEven\\OddEven.csproj",
+        "projectUniqueName": "C:\\Users\\snowf\\Programming-Logic\\Programming-Logic\\OddEven\\OddEven.csproj",
         "projectName": "OddEven",
-        "projectPath": "C:\\Users\\snowf\\Programming-Logic\\OddEven\\OddEven.csproj",
+        "projectPath": "C:\\Users\\snowf\\Programming-Logic\\Programming-Logic\\OddEven\\OddEven.csproj",
         "packagesPath": "C:\\Users\\snowf\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\snowf\\Programming-Logic\\OddEven\\obj\\",
+        "outputPath": "C:\\Users\\snowf\\Programming-Logic\\Programming-Logic\\OddEven\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\snowf\\AppData\\Roaming\\NuGet\\NuGet.Config"

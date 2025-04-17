@@ -12,3 +12,18 @@ C:\Users\snowf\OneDrive\Documents\Programming Logic\CommissionLab\obj\Debug\net9
 C:\Users\snowf\OneDrive\Documents\Programming Logic\CommissionLab\obj\Debug\net9.0\CommissionLab.pdb
 C:\Users\snowf\OneDrive\Documents\Programming Logic\CommissionLab\obj\Debug\net9.0\CommissionLab.genruntimeconfig.cache
 C:\Users\snowf\OneDrive\Documents\Programming Logic\CommissionLab\obj\Debug\net9.0\ref\CommissionLab.dll
+c:\Users\snowf\Programming-Logic\Programming-Logic\CommissionLab\bin\Debug\net9.0\CommissionLab.exe
+c:\Users\snowf\Programming-Logic\Programming-Logic\CommissionLab\bin\Debug\net9.0\CommissionLab.deps.json
+c:\Users\snowf\Programming-Logic\Programming-Logic\CommissionLab\bin\Debug\net9.0\CommissionLab.runtimeconfig.json
+c:\Users\snowf\Programming-Logic\Programming-Logic\CommissionLab\bin\Debug\net9.0\CommissionLab.dll
+c:\Users\snowf\Programming-Logic\Programming-Logic\CommissionLab\bin\Debug\net9.0\CommissionLab.pdb
+c:\Users\snowf\Programming-Logic\Programming-Logic\CommissionLab\obj\Debug\net9.0\CommissionLab.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\snowf\Programming-Logic\Programming-Logic\CommissionLab\obj\Debug\net9.0\CommissionLab.AssemblyInfoInputs.cache
+c:\Users\snowf\Programming-Logic\Programming-Logic\CommissionLab\obj\Debug\net9.0\CommissionLab.AssemblyInfo.cs
+c:\Users\snowf\Programming-Logic\Programming-Logic\CommissionLab\obj\Debug\net9.0\CommissionLab.csproj.CoreCompileInputs.cache
+c:\Users\snowf\Programming-Logic\Programming-Logic\CommissionLab\obj\Debug\net9.0\CommissionLab.sourcelink.json
+c:\Users\snowf\Programming-Logic\Programming-Logic\CommissionLab\obj\Debug\net9.0\CommissionLab.dll
+c:\Users\snowf\Programming-Logic\Programming-Logic\CommissionLab\obj\Debug\net9.0\refint\CommissionLab.dll
+c:\Users\snowf\Programming-Logic\Programming-Logic\CommissionLab\obj\Debug\net9.0\CommissionLab.pdb
+c:\Users\snowf\Programming-Logic\Programming-Logic\CommissionLab\obj\Debug\net9.0\CommissionLab.genruntimeconfig.cache
+c:\Users\snowf\Programming-Logic\Programming-Logic\CommissionLab\obj\Debug\net9.0\ref\CommissionLab.dll

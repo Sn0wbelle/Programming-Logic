@@ -1,0 +1,5 @@
+c:\Users\snowf\Programming-Logic\Programming-Logic\FacultyLab\obj\Debug\net9.0\FacultyLab.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\snowf\Programming-Logic\Programming-Logic\FacultyLab\obj\Debug\net9.0\FacultyLab.AssemblyInfoInputs.cache
+c:\Users\snowf\Programming-Logic\Programming-Logic\FacultyLab\obj\Debug\net9.0\FacultyLab.AssemblyInfo.cs
+c:\Users\snowf\Programming-Logic\Programming-Logic\FacultyLab\obj\Debug\net9.0\FacultyLab.csproj.CoreCompileInputs.cache
+c:\Users\snowf\Programming-Logic\Programming-Logic\FacultyLab\obj\Debug\net9.0\FacultyLab.sourcelink.json
