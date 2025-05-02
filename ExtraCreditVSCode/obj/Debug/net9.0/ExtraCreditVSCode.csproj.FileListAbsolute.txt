@@ -1,0 +1,15 @@
+C:\Users\snowf\Programming-Logic\ExtraCreditVSCode\bin\Debug\net9.0\ExtraCreditVSCode.exe
+C:\Users\snowf\Programming-Logic\ExtraCreditVSCode\bin\Debug\net9.0\ExtraCreditVSCode.deps.json
+C:\Users\snowf\Programming-Logic\ExtraCreditVSCode\bin\Debug\net9.0\ExtraCreditVSCode.runtimeconfig.json
+C:\Users\snowf\Programming-Logic\ExtraCreditVSCode\bin\Debug\net9.0\ExtraCreditVSCode.dll
+C:\Users\snowf\Programming-Logic\ExtraCreditVSCode\bin\Debug\net9.0\ExtraCreditVSCode.pdb
+C:\Users\snowf\Programming-Logic\ExtraCreditVSCode\obj\Debug\net9.0\ExtraCreditVSCode.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\snowf\Programming-Logic\ExtraCreditVSCode\obj\Debug\net9.0\ExtraCreditVSCode.AssemblyInfoInputs.cache
+C:\Users\snowf\Programming-Logic\ExtraCreditVSCode\obj\Debug\net9.0\ExtraCreditVSCode.AssemblyInfo.cs
+C:\Users\snowf\Programming-Logic\ExtraCreditVSCode\obj\Debug\net9.0\ExtraCreditVSCode.csproj.CoreCompileInputs.cache
+C:\Users\snowf\Programming-Logic\ExtraCreditVSCode\obj\Debug\net9.0\ExtraCreditVSCode.sourcelink.json
+C:\Users\snowf\Programming-Logic\ExtraCreditVSCode\obj\Debug\net9.0\ExtraCreditVSCode.dll
+C:\Users\snowf\Programming-Logic\ExtraCreditVSCode\obj\Debug\net9.0\refint\ExtraCreditVSCode.dll
+C:\Users\snowf\Programming-Logic\ExtraCreditVSCode\obj\Debug\net9.0\ExtraCreditVSCode.pdb
+C:\Users\snowf\Programming-Logic\ExtraCreditVSCode\obj\Debug\net9.0\ExtraCreditVSCode.genruntimeconfig.cache
+C:\Users\snowf\Programming-Logic\ExtraCreditVSCode\obj\Debug\net9.0\ref\ExtraCreditVSCode.dll

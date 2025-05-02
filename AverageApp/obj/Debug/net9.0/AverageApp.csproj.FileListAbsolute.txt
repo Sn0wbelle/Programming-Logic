@@ -1,0 +1,15 @@
+C:\Users\snowf\Programming-Logic\AverageApp\bin\Debug\net9.0\AverageApp.exe
+C:\Users\snowf\Programming-Logic\AverageApp\bin\Debug\net9.0\AverageApp.deps.json
+C:\Users\snowf\Programming-Logic\AverageApp\bin\Debug\net9.0\AverageApp.runtimeconfig.json
+C:\Users\snowf\Programming-Logic\AverageApp\bin\Debug\net9.0\AverageApp.dll
+C:\Users\snowf\Programming-Logic\AverageApp\bin\Debug\net9.0\AverageApp.pdb
+C:\Users\snowf\Programming-Logic\AverageApp\obj\Debug\net9.0\AverageApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\snowf\Programming-Logic\AverageApp\obj\Debug\net9.0\AverageApp.AssemblyInfoInputs.cache
+C:\Users\snowf\Programming-Logic\AverageApp\obj\Debug\net9.0\AverageApp.AssemblyInfo.cs
+C:\Users\snowf\Programming-Logic\AverageApp\obj\Debug\net9.0\AverageApp.csproj.CoreCompileInputs.cache
+C:\Users\snowf\Programming-Logic\AverageApp\obj\Debug\net9.0\AverageApp.sourcelink.json
+C:\Users\snowf\Programming-Logic\AverageApp\obj\Debug\net9.0\AverageApp.dll
+C:\Users\snowf\Programming-Logic\AverageApp\obj\Debug\net9.0\refint\AverageApp.dll
+C:\Users\snowf\Programming-Logic\AverageApp\obj\Debug\net9.0\AverageApp.pdb
+C:\Users\snowf\Programming-Logic\AverageApp\obj\Debug\net9.0\AverageApp.genruntimeconfig.cache
+C:\Users\snowf\Programming-Logic\AverageApp\obj\Debug\net9.0\ref\AverageApp.dll
