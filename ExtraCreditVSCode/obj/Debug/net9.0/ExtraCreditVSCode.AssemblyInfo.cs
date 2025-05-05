@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ExtraCreditVSCode")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1331546b4125f901c2c3421ea9968781b910ff25")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d033503ea10ce828e04628ab01ed65560e83fb23")]
 [assembly: System.Reflection.AssemblyProductAttribute("ExtraCreditVSCode")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ExtraCreditVSCode")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

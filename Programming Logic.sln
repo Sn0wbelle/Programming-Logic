@@ -10,6 +10,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OddEven", "OddEven\OddEven.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExtraCreditVSCode", "ExtraCreditVSCode\ExtraCreditVSCode.csproj", "{EF4F3B39-DB54-49FE-9DEB-1B9AFCDAF862}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Final", "Final\Final.csproj", "{7E4A09FD-5839-4384-925E-C3B78561A5A8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -32,6 +34,10 @@ Global
 		{EF4F3B39-DB54-49FE-9DEB-1B9AFCDAF862}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EF4F3B39-DB54-49FE-9DEB-1B9AFCDAF862}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EF4F3B39-DB54-49FE-9DEB-1B9AFCDAF862}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7E4A09FD-5839-4384-925E-C3B78561A5A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E4A09FD-5839-4384-925E-C3B78561A5A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E4A09FD-5839-4384-925E-C3B78561A5A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E4A09FD-5839-4384-925E-C3B78561A5A8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
